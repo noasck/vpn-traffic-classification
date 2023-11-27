@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+# also ignore csv:
+*.csv
 __pycache__/
 *.py[cod]
 *$py.class
